@@ -7,7 +7,7 @@ Passei basicamente todo periodo de pandemia aqui em Ouro Fino , e nesse tempo co
 
 Sim Ouro Fino LITERALMENTE mudou minha vida rsrsrs
 
-E agora estou buscando migrar de carreira pra area de Desenvolvimento, uma area a qual sempre fui extremamente apaixonado, pois sempre tive contato com muitos games e basicamente tudo que envolve tecnologia, e atualmente estou fazendo cursos ( DEV SAMURAI /  CURSO EM VIDEO) com enfase em Front End,e no primeiro trimestre de 2023 inicio o curso superior em analise e desenvilvimento de sistemas. 🤖🚀
+E agora estou buscando migrar de carreira pra area de Desenvolvimento, uma area a qual sempre fui extremamente apaixonado, pois sempre tive contato com muitos games e basicamente tudo que envolve tecnologia, e atualmente estou fazendo cursos ( DEV SAMURAI /  CURSO EM VIDEO/ COD3R(udemy)) com enfase em Front End,e no primeiro trimestre de 2023 inicio o curso superior em analise e desenvilvimento de sistemas. 🤖🚀
 
 Muito prazer esse sou eu Heitor Ribeiro !
 
