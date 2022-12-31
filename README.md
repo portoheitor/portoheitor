@@ -1,5 +1,5 @@
-### Seja Bem Vindo !🍻 Perfil em Construção ...
-<h2>https://portoheitor.github.io/portoheitor/</h2>
+### Seja Bem Vindo ! Perfil em Construção ...
+
 
 Sou uma pessoa que descobriu tarde os beneficios dos estudos.
 Me formei com 23 anos no curso de Tec. em Radiologia no Senac Campinas, trabalhei na area da radiologia por 3 anos , prestando servicos insclusive para o Senac como Supervisor de Estagio.
