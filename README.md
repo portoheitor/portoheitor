@@ -1,5 +1,5 @@
+<img src="https://user-images.githubusercontent.com/121198911/221384730-e94153cf-f0f7-442a-be05-69ea1d96a5e0.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Com a chegada da pandemia fui obrigado a largar tudo em Campinas -SP inclusive minha profissao por motivos familiares ,e dai entao migrei para a cidade de Ouro Fino - MG , uma cidadezinha maravilhosa localizada no Sul de Minas .<br>
