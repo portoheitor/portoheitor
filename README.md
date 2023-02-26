@@ -1,9 +1,8 @@
-<img src="https://user-images.githubusercontent.com/121198911/221384730-e94153cf-f0f7-442a-be05-69ea1d96a5e0.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/121198911/221385206-5d9f8046-1d04-4a63-a4ec-8caaf10d1236.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 
 <p align="left"> 
-  Com a chegada da pandemia fui obrigado a largar tudo em Campinas -SP inclusive minha profissao por motivos familiares ,e dai entao migrei para a cidade de Ouro Fino - MG , uma cidadezinha maravilhosa localizada no Sul de Minas .<br>
-E agora estou buscando migrar de carreira pra area de Desenvolvimento, uma area a qual sempre fui extremamente apaixonado, pois sempre tive contato com muitos games e basicamente tudo que envolve tecnologia, e atualmente estou fazendo cursos ( DEV SAMURAI /  CURSO EM VIDEO/ COD3R) e agora no primeiro trimestre de 2023 inicio o curso superior em Ciencias da Computaçao. 🤖🚀<br>
+Estou buscando migrar de carreira pra area de Desenvolvimento, uma area a qual sempre fui extremamente apaixonado, pois sempre tive contato com muitos games e basicamente tudo que envolve tecnologia, e atualmente estou fazendo cursos ( DEV SAMURAI /  CURSO EM VIDEO/ COD3R) e agora no primeiro trimestre de 2023 inicio o curso superior em Ciencias da Computaçao. 🤖🚀<br>
 Muito prazer esse sou eu Heitor Porto !
 </p>
 
