@@ -7,7 +7,7 @@ Muito prazer esse sou eu Heitor Porto !
 </p>
 
 <p align="left">
-  🐱‍🚀 Linguagens: <strong> JavaScript / React | Iniciando estudos em RUST</strong>
+  🐱‍🚀 Linguagens: <strong> JavaScript / React | Iniciando estudos em PYTHON 🐍</strong>
 </p>
 
 <p align="left">
