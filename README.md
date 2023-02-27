@@ -2,6 +2,7 @@
 
 
 <p align="left"> 
+Perfil em construção...👷‍♂️<br>
 Estou buscando migrar de carreira pra area de Desenvolvimento, uma area a qual sempre fui extremamente apaixonado, pois sempre tive contato com muitos games e basicamente tudo que envolve tecnologia, e atualmente estou fazendo cursos ( DEV SAMURAI /  CURSO EM VIDEO/ COD3R) e agora no primeiro trimestre de 2023 inicio o curso superior em Ciencias da Computaçao. 🤖🚀<br>
 Muito prazer esse sou eu Heitor Porto !
 </p>
