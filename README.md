@@ -2,17 +2,18 @@
 
 
 <p align="left"> 
-Perfil em construção...👷‍♂️<br>
-Estou buscando migrar de carreira pra area de Desenvolvimento, uma area a qual sempre fui extremamente apaixonado, pois sempre tive contato com muitos games e basicamente tudo que envolve tecnologia, e atualmente estou fazendo cursos ( DEV SAMURAI /  CURSO EM VIDEO/ COD3R) e no segundo semestre de 2023 inicio o curso superior em Ciencias da Computaçao. 🤖🚀<br>
+<br>
+Sou um apaixonado por tecnologia e no momento estou buscando migrar de carreira pra area de Desenvolvimento, uma area a qual sempre fui extremamente apaixonado, pois sempre tive contato com muitos games e basicamente tudo que envolve tecnologia, e atualmente faço parte do Programa da Oracle que se chama Oracle-NextOne e estou seguindo a trilha de BackEnd!
+e tambem estou cursando superior em Ciencias da Computaçao pela UNIP. 🤖🚀<br>
 Muito prazer esse sou eu Heitor Porto !
 </p>
 
 <p align="left">
-  🐱‍🚀 Linguagens: <strong> JavaScript / React | Iniciando estudos em PYTHON 🐍</strong>
+  🐱‍🚀 Linguagens: <strong> JavaScript / React | Iniciando estudos em JAVA ☕️</strong>
 </p>
 
 <p align="left">
-  🧠 Ferramentas: <strong> GitHub Desktop | Visual Studio | </strong>
+  🧠 Ferramentas: <strong> GitHub Desktop | Visual Studio | Eclipse </strong>
 </p>
 
 <p align="left">
