@@ -21,7 +21,7 @@ Muito prazer esse sou eu Heitor Porto !
 </p>
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/heitor-ribeiro-porto-dev/" alt="Linkedin">
+   <a href="https://www.linkedin.com/in/heitorporto-dev/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://wa.me/5519992846827?text=Encontrei%20vo%C3%A7e%20no%20GitHuB%20,%20vamos%20conversar?" alt="WhatsApp">
