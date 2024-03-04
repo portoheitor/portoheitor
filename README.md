@@ -3,17 +3,19 @@
 
 <p align="left"> 
 <br>
-Sou um apaixonado por tecnologia e no momento estou buscando migrar de carreira pra area de Desenvolvimento, uma area a qual sempre fui extremamente apaixonado, pois sempre tive contato com muitos games e basicamente tudo que envolve tecnologia, e atualmente faço parte do Programa da Oracle que se chama Oracle-NextOne e estou seguindo a trilha de BackEnd!
-e tambem estou cursando superior em Ciencias da Computaçao pela UNIP. 🤖🚀<br>
+Sou um apaixonado por tecnologia e no momento estou buscando migrar de carreira pra area de Desenvolvimento, uma area a qual sempre fui extremamente apaixonado,
+e o mercado atual demanda cada vez mais bons profissionais em tecnologia!
+Estudo de modo auto-didata, partindo sempre da base de cada tema, para alcancar niveis mais altos com qualidade e conhecimento, nao so exucutando um framework!
 Muito prazer esse sou eu Heitor Porto !
 </p>
 
 <p align="left">
-  🐱‍🚀 Linguagens: <strong> JavaScript / React | Iniciando estudos em JAVA ☕️</strong>
+  Atualmente estudando:
+   Phyton 🐍 |</strong>
 </p>
 
 <p align="left">
-  🧠 Ferramentas: <strong> GitHub Desktop | Visual Studio | Eclipse </strong>
+  🧠 Ferramentas: <strong> GitHub Desktop | Visual Studio  </strong>
 </p>
 
 <p align="left">
