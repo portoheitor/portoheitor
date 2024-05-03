@@ -9,14 +9,7 @@ Estudo de modo auto-didata, partindo sempre da base de cada tema, para alcancar 
 Muito prazer esse sou eu Heitor Porto !
 </p>
 
-<p align="left">
-  Atualmente estudando:
-   Phyton 🐍 |</strong>
-</p>
 
-<p align="left">
-  🧠 Ferramentas: <strong> GitHub Desktop | Visual Studio  </strong>
-</p>
 
 <p align="left">
   💌 Para mais inforaçoes e contato voce pode me encontrar nesses endereços: ⤵️
