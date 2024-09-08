@@ -12,7 +12,7 @@ Muito prazer esse sou eu Heitor Porto !
 
 
 <p align="left">
-  💌 Para mais inforaçoes e contato voce pode me encontrar nesses endereços: ⤵️
+   Para mais inforaçoes e contato voce pode me encontrar nesses endereços: ⤵️
 </p>
 
 <p align="left">
@@ -22,8 +22,7 @@ Muito prazer esse sou eu Heitor Porto !
   <a href="https://wa.me/5519992846827?text=Encontrei%20vo%C3%A7e%20no%20GitHuB%20,%20vamos%20conversar?" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
   
-  <a href="https://www.instagram.com/heitor.porto/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  
 </p>  
 
 [![portoheitor](https://github-readme-stats.vercel.app/api?username=portoheitor&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
