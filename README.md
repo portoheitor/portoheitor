@@ -5,7 +5,7 @@
 <br>
 Sou um apaixonado por tecnologia e no momento estou buscando migrar de carreira pra area de Desenvolvimento, uma area a qual sempre fui extremamente apaixonado,
 e o mercado atual demanda cada vez mais bons profissionais em tecnologia!
-Estudo de modo auto-didata, partindo sempre da base de cada tema, para alcancar niveis mais altos com qualidade e conhecimento, nao so exucutando um framework!
+Estudo de modo auto-didata,e atualmente cursando Tecnologia em Banco de Dados (Senac) partindo sempre da base de cada tema, para alcancar niveis mais altos com qualidade e conhecimento, nao so exucutando um framework!
 Muito prazer esse sou eu Heitor Porto !
 </p>
 
